@@ -4,7 +4,13 @@
     "gulp": "^3.8.8"
   },
   "dependencies": {
-    "laravel-elixir": "^4.0.0",
-    "bootstrap-sass": "^3.0.0"
-  }
+    "bootstrap-sass": "^3.0.0",
+    "laravel-elixir": "^4.0.0"
+  },
+  "name": "Laravel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PurpleDandelion/laravel_demo.git",
+  "author": "dandelion <2290294031@qq.com>",
+  "license": "MIT"
 }
